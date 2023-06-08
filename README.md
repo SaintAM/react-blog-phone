@@ -1,5 +1,5 @@
-# react-blog-phone
-.A simple blog on React JS
+# react-blog-phone;
+.A simple blog on React JS;
 Vite + yarn;
 Data: json-server; 
 Runs the app in the development mode.
