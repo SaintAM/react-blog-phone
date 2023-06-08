@@ -1,0 +1,25 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.screens {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+    padding: 30px;
+    min-width: 500px;
+}
+.title {
+    font-size: 22px;
+    font-weight: 700;
+    color: rgb(180, 201, 220);
+}
+.screens p {
+    margin-top: 20px;
+    font: 1em sans-serif;
+    font-stretch: wider;
+    font-style: italic;
+}
